@@ -5,7 +5,7 @@ const win_nums = [31, 10, 45, 1, 6, 19]
 function solution(lottos, win_nums) {
     const score ={
         0:6,
-        1:6 ,
+        1:6,
         2:5,
         3:4,
         4:3,
