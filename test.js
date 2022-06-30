@@ -1,1 +1,6 @@
-console.log(Math.floor(Math.sqrt(7)));
+function solution(arr1, arr2) {
+  var answer = [[]];
+  return answer;
+}
+
+
